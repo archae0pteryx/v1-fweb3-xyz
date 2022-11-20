@@ -1,12 +1,15 @@
 # [fweb3.xyz](https://fweb3.xyz)
 
+## Update Nov-2022
+
+### There were some security issues with our initial prototype. This project started as a hackathon in feb 2022 and many lessons were learned. All of us were learning when this game was created (kinda the whole point of the game) and since lots of code has been updated. Bots began spamming our faucet system and had to be shut down for improvements. These improvements are underway and a post will go out to the entire community with the roadmap very soon. We hope to have v2 launched in time for next febuary and another hackathon! Thanks to everyone for their patience in the discord and everywhere.
+
 ![Statements](https://img.shields.io/badge/statements-87.5%25-yellow.svg?style=flat&logo=jest)
 ![Branches](https://img.shields.io/badge/branches-60%25-red.svg?style=flat&logo=jest)
 ![Functions](https://img.shields.io/badge/functions-100%25-brightgreen.svg?style=flat&logo=jest)
 ![Lines](https://img.shields.io/badge/lines-87.5%25-yellow.svg?style=flat&logo=jest)
 
-Contributions are more than welcome! Please fork this repo, do work, then submit a PR!
-You will find the contribution guidlines [here](https://github.com/fweb3/CONTRIBUTING)
+Contributions are more than welcome.
 
 ---
 
