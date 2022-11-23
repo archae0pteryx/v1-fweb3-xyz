@@ -168,9 +168,8 @@ export default function Home() {
         <h3 style={{ textAlign: "center" }}>Update: Nov 2022</h3>
         <p style={{ textAlign: "center", padding: "2rem", color: "yellow" }}>
           We are updating and prepairing for the next release! Feel free to play
-          and reach out in the discord. The faucet is disable however so you may
-          have to wait a bit for your tokens. We are also undergoing big updates
-          so bugs are expected. Please be patient! It will be worth it.
+          and reach out in the discord. The faucet is disabled however so you may
+          have to wait a bit for your tokens. We are gearing up for season 2 which will start the begininning of feb.
         </p>
       </div>
       <main>
